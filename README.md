@@ -1,2 +1,0 @@
-# PracticeJavaExcercise
-Practice Exercise
