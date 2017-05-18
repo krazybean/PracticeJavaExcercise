@@ -17,3 +17,6 @@ however `bundle.gradle`'s json format seems easier on the eyes to manage.
 #### Spring dependancy madness
 
 I hadn't realized how much using an example to deploy initial dependancies versus using intellij to install missing dependancies and finding out the two don't play nice together.
+
+#### *Python example uploaded*
+Whilst not fully complete, last night uploaded a python example that is functionally restful and stores the data but other requirements not completed.
