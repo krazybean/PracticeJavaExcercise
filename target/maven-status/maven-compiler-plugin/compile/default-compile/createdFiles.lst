@@ -1,0 +1,8 @@
+com/juan/Application.class
+com/juan/impl/AdvertiserServiceImpl.class
+com/juan/service/AdvertiserService.class
+com/juan/controller/AdvertiserRestController.class
+com/juan/domain/Advertiser.class
+com/juan/domain/AdvertiserList.class
+com/juan/domain/ObjectWithId.class
+META-INF/sisu/javax.inject.Named
